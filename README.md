@@ -12,3 +12,6 @@ first
 
 [assignment week 8](https://github.com/wardstolk/assignments/blob/master/assignment5.ipynb)
 
+[final assignment Python](https://github.com/wardstolk/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[final assignment R](https://github.com/wardstolk/assignments/blob/master/OECD_R_exam.ipynb)
